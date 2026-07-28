@@ -33,8 +33,10 @@
 
 - `一万元理财投资方案_20260728.xlsx` — 一万元理财方案（6个工作表）
 - `未来五年三大赛道投资分析_20260728.xlsx` — 五年三赛道深度分析（5个工作表）
+- `一万元理财细化方案_三大赛道_20260728.xlsx` — **细化版**：16只标的+精确代码+精确买卖时间（5个工作表）
 - `generate_report.py` — 理财方案Excel生成脚本
 - `generate_sector_report.py` — 赛道分析Excel生成脚本
+- `generate_refined_report.py` — 细化方案Excel生成脚本
 - `README.md` — 项目说明
 
 ## Excel报表包含
